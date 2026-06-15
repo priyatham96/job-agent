@@ -1,0 +1,81 @@
+PRIYATHAM KAPAVARAPU
+Email: priyath.vara@gmail.com
+Phone: +91 7993629639
+CAREER SUMMARY
+• DevOps Engineer with 5 years of IT experience automating, and optimizing mission critical deployments in AWS,
+Ansible, CI/CD, Infrastructure as Code, Containerization and Container Orchestration Build/Release management.
+• Experience in using bug tracking tools like JIRA and Service Desk. Implementation of JIRA to implement agile, to track all
+issues pertaining to the SDLC and Integration of JIRA with Git to track all code changes.
+• Managing services, maintaining, and managing log files, monitoring event, logs and troubleshooting system problems
+using tools like Nagios, Splunk, ELK and Cloud Watch and resolve for any reported issues.
+• Expert in network services which include VPC, Subnet, SSH, DNS, VPN, NACL, Security group.
+• Excellent communication, interpersonal, intuitive, and analytical and leadership skills with ability to work efficiently in
+both independent and teamwork environments.
+EDUCATION QUALIFICATIONS
+• Bachelor of Engineering Technology - Petroleum (2020) Post Degree from Cape Breton University, Sydney, NS.
+• B Tech in Mechanical Engineering (2017) from Andhra Loyola Institute of Engineering and Technology, Vijayawada.
+TECHNICAL SKILLS
+DevOps - Automation, CI/CD, Infrastructure as Code, Build & Release, Java Stack, HashiCorp Tools,
+Atlassian Tools, ISTIO
+Cloud - AWS. Knowledge on Azure & GCP
+CI/CD Tools, Build Tools - Jenkins, Terraform
+Configuration Management - Chef, Ansible
+Container Tools - Kubernetes, Docker, OpenShift (v3.0 & 4.0)
+Scripting - Bash/Shell, Python, JSON, YAML
+PROFESSIONAL EXPERIENCE
+DevOps Engineer
+Servion Global Solutions June 2024 – Present
+Roles & Responsibilities:
+• Designed and implemented scalable, secure, and highly available AWS cloud solutions, leveraging services such as EC2, S3,
+RDS, Lambda, CloudFormation, and IAM.
+• Developed and maintained CI/CD pipelines using Jenkins, CodePipeline, and GitHub Actions for automated build, test, and
+deployment of cloud-native applications.
+• Automated infrastructure provisioning and configuration using Terraform and Ansible, ensuring repeatable and consistent
+environment builds.
+• Managed containerized workloads using Docker and orchestrated deployments on Amazon EKS (Elastic Kubernetes Service).
+• Integrated monitoring and logging solutions such as CloudWatch, ELK stack, and Prometheus for system health, metrics, and
+alerting.
+• Implemented security best practices including least privilege IAM policies, encryption in transit/at rest, and regular security
+group audits.
+• Collaborated with development and QA teams in Agile environments to streamline release processes and enforce DevSecOps
+standards.
+• Debugged and resolved stack creation and update failures using AWS Cloud Formation Stack Events and logs.
+• Collaborated with teams to design and implement nestedCloudFormation stacks, improving maintainability and modularity.
+• Worked on S3 bucket replication and S3 bucket lifecycle to make sure data lifecycle is optimal.
+• Complete hands-on experience with cloud watch, doneapplication log monitoring as well as EC2 health monitoring, created
+own dashboards for better view.
+Environment: AWS (EC2, S3, RDS, Lambda, EKS, CloudFormation), Terraform, Jenkins, GitHub Actions, Ansible, Docker,
+Kubernetes, ELK Stack, CloudWatch, Python, Bash, Linux/Windows.
+Cloud Engineer
+Royal Bank of Canada Apr 2020 – Apr 2024
+Roles & Responsibilities:
+• Developed Python and Jenkins-based microservice onboarding tools, streamlining the creation and maintenance of build
+jobs, Kubernetes deployment, and services.
+• Proficient in container technologies such as Docker, Kubernetes, and OpenShift (version 3.0 and 4.0), specializing in
+OpenShift for project creation, load balancing services, route accessibility, and troubleshooting pod issues.
+• Led Kubernetes-based container deployments, creating self-environments for dev teams and facilitating environment
+containerization for releases, utilizing Docker and Kubernetes for microservices management.
+• Implemented Docker containers and consoles for application lifecycle management, utilizing Docker components like
+Engine, Hub, Machine, Compose, and Registry.
+• Emphasized containerization and immutable infrastructure, deploying Docker Engines in Virtualized Platforms, and utilizing
+Docker Swarm for spring boot applications.
+• Created, customized, and maintained Docker images, developed Ansible roles and playbooks for continuous delivery
+automation, and used Ansible Tower for role-based access control.
+• Utilized Ansible as a configuration management tool for automating repetitive tasks, deploying critical applications, and
+managing change.
+• Extensive experience in Operations Management Suite, PowerShell scripts, ARM templates, and Ansible provisioning for
+dev servers.
+• Wrote Ansible playbooks for provisioning machines in different environments, converted static playbooks into roles, and
+integrated automated build with deployment pipeline.
+• Managed infrastructure resources using Terraform for Cloud, VMware, Bare Metal Servers, and Docker containers.
+• Configured RDS instances, wrote Docker files, and utilized Docker-compose for containerizing CI/CD pipelines.
+• Implemented Splunk for capturing and analyzing logs from various layers, monitoring system logs, and notifying incident
+management upon threshold exceedance.
+• Coordinated and assisted developers in establishing GIT branching, labeling, and naming conventions, resolving conflicts,
+and adhering to configuration management policies.
+• Proficient in Bash/Shell scripting, maintained JIRA for tracking and updating project defects and tasks, and demonstrated
+strong troubleshooting and time management skills.
+• Possess a solid understanding of Incident, Problem, and Change management, with the ability to work independently or
+collaboratively within a team.
+Environment: Kubernetes, Docker, OpenShift (v3.0 & 4.0), Terraform, Jenkins, Git, Ansible, Maven, Nginx, SonarQube, Elk, Apache
+Tomcat, Python, Power shell, Windows/Linux
