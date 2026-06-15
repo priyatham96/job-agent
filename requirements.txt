@@ -1,0 +1,9 @@
+openai
+sqlalchemy
+psycopg2-binary
+python-dotenv
+pandas
+requests
+beautifulsoup4
+PyPDF2
+schedule
